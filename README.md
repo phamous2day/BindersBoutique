@@ -18,5 +18,5 @@
 * Offer wizard-like “product finder” tools that bypass navigation
 * Offer online activities unrelated to purchasing products
 
-#Check out the clickable prototype here:
+###Check out the clickable prototype here:
 https://phamous2day.github.io/BindersBoutique/
