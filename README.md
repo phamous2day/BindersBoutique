@@ -1,5 +1,4 @@
 # e-commerce microsite: BindersBoutique
-a collection of my UX/UI projects
 [![animatedGif](images/BB.gif)](https://vimeo.com/196677660 "See my microsite about pens in action!")
 
 ##THE CHALLENGE
@@ -18,3 +17,6 @@ a collection of my UX/UI projects
 * Offer any search functionality
 * Offer wizard-like “product finder” tools that bypass navigation
 * Offer online activities unrelated to purchasing products
+
+#Check out the clickable prototype here:
+https://phamous2day.github.io/BindersBoutique/
