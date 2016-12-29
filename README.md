@@ -20,3 +20,5 @@
 
 ###Check out the clickable prototype here:
 https://phamous2day.github.io/BindersBoutique/
+
+Clikable prototype, carousel edition go here: https://phamous2day.github.io/BindersBoutique/indexCarousel.html
